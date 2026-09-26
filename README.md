@@ -6,7 +6,7 @@ state-of-the-art LLMs against these ground-truth labels. Our goal is to advance 
 
 The dataset contains 2,123 real-world Replika conversations collected from Reddit, annotated through human–AI collaboration across nine categories: sexual behavior, antisocial behavior, physical aggression, verbal aggression, substance abuse, self-harm & suicide, control, manipulation, and safe [1]. The overall framework is illustrate in Fig 1.
 
-![Framework](images/framework.png)
+![Framework](image/framework.png)
 Fig 1. Framework of AICompanionBench
 
 ## Statistics of AICompanionBench
